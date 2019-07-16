@@ -13,7 +13,6 @@ struct ListData
     char* Data;
     ListData* next;
 };
-void asd();
 void Push(ListData *&List, char* newStr)
 {
     ListData *tmp = new ListData;
