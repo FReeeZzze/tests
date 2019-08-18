@@ -1,0 +1,2 @@
+node freebot
+pause
